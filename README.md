@@ -25,6 +25,8 @@ Deliver a clear, interactive view of sales performance to support data-driven de
 ## 🔷 Dashboard Preview
 ![Dashboard](images/dashboard.png)
 
+![Forecast](images/dashboard%20forecast.png)
+
 ## 🔷 Data Model
 ![Data Model](images/data%20model.png)
 
