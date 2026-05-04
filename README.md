@@ -16,18 +16,22 @@ Deliver a clear, interactive view of sales performance to support data-driven de
 - Interactive filtering for dynamic exploration  
 
 ## 🔷 Key Insights
-- Revenue is highly concentrated among a small set of products  
-- Certain regions consistently outperform others  
-- Sales trends indicate clear seasonal patterns  
-- Underperforming categories present optimization opportunities  
+- Profit margins are low, regardless of high revenue
+- Standard shipping method seems to be the most dominant choice 
+- Most of our profit comes from the East and West Region
+- Sales trends indicate clear seasonal patterns, with peak sales coming in at the end of the year.
+- Technology and Office Supplies yield the highest profit with Copiers doubling the next closest category Accessories and Phones.
 
 ## 🔷 Dashboard Preview
 ![Dashboard](images/dashboard.png)
 
+## 🔷 Data Model
+![Data Model](images/data%20model.png)
+
 ## 🔷 Repository Structure
 - `/data` → Raw dataset  
 - `/dashboard` → Power BI file (.pbix)  
-- `/images` → Dashboard screenshots  
+- `/images` → Dashboard and data model screenshots  
 
 ## 🔷 Outcome
 This project demonstrates the ability to transform raw data into actionable business intelligence and deliver insights through an interactive dashboard.
